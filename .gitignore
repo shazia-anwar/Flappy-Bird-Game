@@ -1,0 +1,86 @@
+# =========================
+
+# Python cache / compiled
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+
+# Virtual Environment
+
+# =========================
+
+.venv/
+venv/
+env/
+
+# =========================
+
+# Logs / Training outputs
+
+# =========================
+
+runs/
+results/
+*.log
+
+# =========================
+
+# Model checkpoints
+
+# =========================
+
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.safetensors
+
+# =========================
+
+# Jupyter Notebook checkpoints
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# System files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# VS Code / IDE settings
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# YAML configs (optional)
+
+# =========================
+
+# parameters.yaml   # (uncomment if needed)
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.zip
+*.tar
+*.gz
